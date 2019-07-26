@@ -17,7 +17,7 @@
     "typeahead"
   ],
   "dependencies": {
-    "jquery": ">= 1.0.0"
+    "jquery-migrate": "jquery/jquery-migrate#3.1"
   },
   "license": "MPL",
   "homepage": "http://welldonethings.com/tags/manager/v3",
